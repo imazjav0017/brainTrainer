@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\imazjav0017\AndroidStudioProjects\BrainTrainer\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.3.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="425c7b17887e5c3f8cbdf67ba171bc246f29b42c">
+        <dex dex="C:\Users\imazjav0017\AndroidStudioProjects\BrainTrainer\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-25.3.0_8844fe89ad87236928fdd8a52afd20561a3227e2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\imazjav0017\AndroidStudioProjects\BrainTrainer\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.3.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="518768f3200963fbfec652f498da2c9d39245234">
+        <dex dex="C:\Users\imazjav0017\AndroidStudioProjects\BrainTrainer\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.3.0_e754fdff31a929f89c58ceb17d0c9ae4a0b97b40\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\imazjav0017\AndroidStudioProjects\BrainTrainer\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.3.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\imazjav0017\AndroidStudioProjects\BrainTrainer\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-25.3.0_3f231c5b2836fa459bdd53ce546406c4ed6cae58\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\imazjav0017\AndroidStudioProjects\BrainTrainer\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.3.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="93c1199fcb0a34b980e6fff8350daff62e696ec2">
+        <dex dex="C:\Users\imazjav0017\AndroidStudioProjects\BrainTrainer\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.3.0_ebe3e421edabfdea2f3b95582a2ac40283085b7b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\imazjav0017\AndroidStudioProjects\BrainTrainer\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.3.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5cc5ef8347a6bafa14556cbd35230aa9b3431bb0">
+        <dex dex="C:\Users\imazjav0017\AndroidStudioProjects\BrainTrainer\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.3.0_5c2d7fe564aa4506151c1f1ad5b29b1d55a28fde\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\imazjav0017\AndroidStudioProjects\BrainTrainer\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.3.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="70f23cb87278f89aa51e6f57e8f0fd5266572d95">
+        <dex dex="C:\Users\imazjav0017\AndroidStudioProjects\BrainTrainer\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-25.3.0_e40e07542c4098eb7c6f401a6df4e4056521b2e0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\imazjav0017\AndroidStudioProjects\BrainTrainer\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="89e3e03c093cf6f218cac946fb3ae412e5c3976b">
+        <dex dex="C:\Users\imazjav0017\AndroidStudioProjects\BrainTrainer\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_1c97ba4c8456036cef282274fd75b5bf0cddf0ff\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\imazjav0017\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.0\support-annotations-25.3.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="dd84903d2e1af25a6081ef9038ad863cb14ca3a0">
+        <dex dex="C:\Users\imazjav0017\AndroidStudioProjects\BrainTrainer\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.3.0_d196c6542e39576a051c9f51745a8fb135b4715b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\imazjav0017\AndroidStudioProjects\BrainTrainer\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.3.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d6a04527c17597019dad82777c5094a3d60d1c33">
+        <dex dex="C:\Users\imazjav0017\AndroidStudioProjects\BrainTrainer\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-25.3.0_1fd76318be2fccaaf45494b2479ce0c9ef285143\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\imazjav0017\AndroidStudioProjects\BrainTrainer\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.3.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="93c10d68ab5ea070f15782ae6d3a28d1f1d8f45e">
+        <dex dex="C:\Users\imazjav0017\AndroidStudioProjects\BrainTrainer\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.3.0_f00d76921fd5f0a7555b1626a1d62b9a1ace60fc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\imazjav0017\AndroidStudioProjects\BrainTrainer\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.3.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4b746ef0fd46acb5aaf3d9ab9a4cec22c28d3211">
+        <dex dex="C:\Users\imazjav0017\AndroidStudioProjects\BrainTrainer\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-25.3.0_93150c9a615f770349797ba2290645ff661ce818\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\imazjav0017\AndroidStudioProjects\BrainTrainer\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="55e89d452fbf9b4858614995d698026251e86975">
+        <dex dex="C:\Users\imazjav0017\AndroidStudioProjects\BrainTrainer\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_81d3f38c0ab8b7204ef62507fbd4c4e5f47f25ed\classes.dex" />
+    </item>
+
+</items>
